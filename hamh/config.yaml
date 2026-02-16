@@ -1,4 +1,4 @@
-version: "3.0.6"
+version: "3.0.9"
 image: ghcr.io/waynieack/home-assistant-matter-hub
 slug: hamh
 name: Home-Assistant-Matter-Hub
